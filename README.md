@@ -3,6 +3,13 @@
 Practical hiring insights for technology companies across AI, Web3, blockchain, software engineering, and cross-border recruitment.
 
 ---
+## How to Verify Technical Candidates in 2026: AI-Generated CVs, Skills Validation and Hiring Risk**
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/7d8cb662-0b10-4e0a-b720-858862017246" />
+
+AI-generated CVs are making candidate verification more important. Learn what hiring teams should check when assessing technical candidates, from skills validation to evidence of real experience.
+
+[Read the full article →] https://www.nindar.com/blog/how-to-verify-technical-candidates-in-2026-ai-generated-cvs-skills-validation-and-hiring-risk
 
 ## What Makes a Strong Founding Engineer?
 
