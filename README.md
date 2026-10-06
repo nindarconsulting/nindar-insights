@@ -11,6 +11,18 @@ AI-generated CVs are making candidate verification more important. Learn what hi
 
 [Read the full article →] https://www.nindar.com/blog/how-to-verify-technical-candidates-in-2026-ai-generated-cvs-skills-validation-and-hiring-risk
 
+---
+## AI Recruitment in 2026: How Nindar Helps Companies Cut Through Application Overload
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/d464b7a3-0d8e-4147-a154-0b297ea81bee" />
+
+AI has made it easier for candidates to apply for jobs, but it has also created more noise for hiring teams.
+This article looks at how companies can manage application overload, assess candidate quality more effectively, and focus on stronger-fit technical talent.
+
+[**Read the full article →**] https://www.nindar.com/blog/ai-recruitment-in-2026-how-nindar-helps-companies-cut-through-application-overload
+
+---
+
 ## What Makes a Strong Founding Engineer?
 
 <img width="1600" height="900" alt="904972ccb87b0bc1dac50fedee240c90da7854b2-1672x941" src="https://github.com/user-attachments/assets/75451fc5-8e06-4859-af02-8c9c066fba08" />
