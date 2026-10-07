@@ -3,6 +3,14 @@
 Practical hiring insights for technology companies across AI, Web3, blockchain, software engineering, and cross-border recruitment.
 
 ---
+## Sourcing Cross-Border Algorithmic Modeling and Predictive Data Specialists for Asset Managers
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/6ef7b2a8-b1c6-46e1-a3c3-286126ac7063" />
+
+Curious about where asset managers can find stronger algorithmic modelling and predictive data talent beyond their local market?
+Nindar breaks down the cross-border talent opportunities, key specialist skills to look for, and what hiring teams should consider before expanding their search.
+
+[Read the full article →] https://www.nindar.com/blog/sourcing-cross-border-algorithmic-modeling-and-predictive-data-specialists-for-asset-managers
+
 ## How to Verify Technical Candidates in 2026: AI-Generated CVs, Skills Validation and Hiring Risk**
 
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/7d8cb662-0b10-4e0a-b720-858862017246" />
