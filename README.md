@@ -2,6 +2,15 @@
 
 Practical hiring insights for technology companies across AI, Web3, blockchain, software engineering, and cross-border recruitment.
 
+
+---
+## Why High Application Volume Is Making Tech Recruitment Harder - And How Specialist Recruitment Helps
+<img width="1600" height="1067" alt="image" src="https://github.com/user-attachments/assets/f3d67b19-4bbd-4141-a959-a8463b85041b" />
+
+More applications should make hiring easier - so why are tech teams finding it harder to identify the right people? The real problem may not be talent shortage. It may be too much noise.
+
+[Read the full article →]. https://www.nindar.com/blog/why-high-application-volume-is-making-tech-recruitment-harder-and-how-specialist-recruitment
+
 ---
 ## Sourcing Cross-Border Algorithmic Modeling and Predictive Data Specialists for Asset Managers
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/6ef7b2a8-b1c6-46e1-a3c3-286126ac7063" />
