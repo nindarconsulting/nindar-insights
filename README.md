@@ -2,14 +2,13 @@
 
 Practical hiring insights for technology companies across AI, Web3, blockchain, software engineering, and cross-border recruitment.
 
+---
+## Tech Layoffs in 2026: Why the Market Is Reshuffling, Not Disappearing
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/8c0636f0-0864-4b8e-8a57-1bcfc4ee018a" />
 
-## How Banks Can Modernize Their Systems Without Interrupting Daily Operations
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/aab496fa-1be0-4c0b-8132-6fe25c59b055" />
+In a recent conversation, Jenny Nguyen, CEO of Nindar Consulting, shared her perspective on the 2026 tech layoffs and what they mean for hiring. Her view: the market isn’t disappearing - it’s reshuffling, with demand still strong for AI, platform, security and engineering talent.
 
-Layoffs don’t mean the talent disappeared. The market is reshuffling.
-Companies are still competing for the right AI, platform and security talent - which means hiring has to be sharper now.
-
-[Read the full article →] https://www.nindar.com/blog/how-banks-can-modernize-their-systems-without-interrupting-daily-operations
+[Read the full article →] https://www.nindar.com/blog/tech-layoffs-in-2026-why-the-market-is-reshuffling-not-disappearing
 
 ---
 ## Overcoming Local Talent Deficits in High-Throughput Payment Gateways and API Processing
