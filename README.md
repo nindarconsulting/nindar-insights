@@ -3,6 +3,17 @@
 Practical hiring insights for technology companies across AI, Web3, blockchain, software engineering, and cross-border recruitment.
 
 ---
+
+## How Nindar Connects Companies with Skilled Talent After Tech Layoffs
+
+<img width="1600" height="1067" alt="image" src="https://github.com/user-attachments/assets/d1848ef1-2f23-4837-bb14-dce716ea5d2d" />
+
+Tech layoffs are reshaping the talent market. Here’s how Nindar connects experienced professionals with companies that need their skills.
+
+[Read the full article →] https://www.nindar.com/blog/how-nindar-connects-companies-with-skilled-talent-after-tech-layoffs
+
+
+---
 ## How Banks Can Modernize Their Systems Without Interrupting Daily Operations
 
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/35f74720-0041-4328-ad1b-7d92c6def8b1" />
