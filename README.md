@@ -3,7 +3,15 @@
 Practical hiring insights for technology companies across AI, Web3, blockchain, software engineering, and cross-border recruitment.
 
 ---
+## How Nindar Helps Banks Overcome the Integration Talent Gap in Core Banking Migrations
 
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/be887684-cab7-4940-90db-df5cb2db8292" />
+
+Core banking migrations require engineers who understand both legacy systems and modern integration methods. Nindar helps banks find and assess professionals whose experience matches the project.
+
+[Read the full article →] https://www.nindar.com/blog/how-nindar-helps-banks-overcome-the-integration-talent-gap-in-core-banking-migrations
+
+---
 ## How Nindar Connects Companies with Skilled Talent After Tech Layoffs
 
 <img width="1600" height="1067" alt="image" src="https://github.com/user-attachments/assets/d1848ef1-2f23-4837-bb14-dce716ea5d2d" />
