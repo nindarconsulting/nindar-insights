@@ -1,5 +1,3 @@
-<img width="1672" height="941" alt="Collaborative Finance Meeting with City Views" src="https://github.com/user-attachments/assets/7b4fdfb3-cc43-4f86-bf37-a41fe067f87f" /># Nindar Insights
-
 Practical hiring insights for technology companies across AI, Web3, blockchain, software engineering, and cross-border recruitment.
 
 ---
