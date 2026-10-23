@@ -1,11 +1,11 @@
-# Nindar Insights
+<img width="1672" height="941" alt="Collaborative Finance Meeting with City Views" src="https://github.com/user-attachments/assets/7b4fdfb3-cc43-4f86-bf37-a41fe067f87f" /># Nindar Insights
 
 Practical hiring insights for technology companies across AI, Web3, blockchain, software engineering, and cross-border recruitment.
 
 ---
 ## Securing Sovereign Assets: Embedding Smart Contract and Ledger Architects into Decentralized Treasury Systems
 
-<img width="1600" height="900" alt="Decentralized treasury security and blockchain architecture" src="[PASTE-YOUR-GITHUB-IMAGE-URL-HERE](https://www.nindar.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Foqi41g8l%2Fproduction%2Fc2c27b85d15c7ff0e3a29e5c780600faa9239ba9-1672x941.png%3Fw%3D1600%26fit%3Dcrop%26auto%3Dformat&w=1920&q=75)" />
+<img width="1672" height="941" alt="Collaborative Finance Meeting with City Views" src="https://github.com/user-attachments/assets/18f66327-c963-4bea-8dc0-e7466b760174" />
 
 Securing sovereign assets requires skilled Smart Contract and Distributed Ledger Architects to build reliable, secure decentralized treasury systems. Nindar helps FinTech and Web3 companies find specialist engineers for complex financial infrastructure.
 
